@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
 
 
 st.page_link("Home.py", label="Home", icon="🏠")
