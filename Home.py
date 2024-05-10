@@ -1,10 +1,6 @@
 import streamlit as st
-import requests
-from streamlit_lottie import st_lottie
 from streamlit_option_menu import option_menu
 
-import streamlit as st
-import requests
 
 st.page_link("Home.py", label="Home", icon="🏠")
 st.page_link("pages/Alkalimetri.py", label="Alkalimetri", icon="1️⃣")
