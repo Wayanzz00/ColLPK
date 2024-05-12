@@ -27,7 +27,6 @@ with col1 :
     st.title (" ")
     st.title (" ")
     st.title("TITRIMETRI")
-
     st.page_link("Home.py", label="Home", icon="🏠")
     st.page_link("pages/Alkalimetri.py", label="Alkalimetri", icon="1️⃣")
     st.page_link("pages/Asidimetri.py", label="Asidimetri", icon="2️⃣")
